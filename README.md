@@ -1,4 +1,4 @@
-# AI-Powered Retail Management System
+# AI-Powered Retro- Retail Management System
 
 ---
 
@@ -185,6 +185,6 @@ A brief overview of the main API routes available:
 
 For any questions or feedback regarding this project, feel free to reach out.
 
--   **Email:** `mdpatil2004@gmail.com`
+-   **Email:** `Vivekkumarjha2005@gmail.com`
 
 Thank you for checking out the project!
