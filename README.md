@@ -185,6 +185,6 @@ A brief overview of the main API routes available:
 
 For any questions or feedback regarding this project, feel free to reach out.
 
--   **Email:** `Vivekkumarjha2005@gmail.com`
+-   **Email:** `vivekkumarjha2005@gmail.com`
 
 Thank you for checking out the project!
