@@ -111,7 +111,7 @@ Ensure you have the following software installed:
     npm install simple-statistics
     npm install
     ```
-3.  **Create environment file:**
+3.  **Create environment file: **
     ```bash
     cp .env.example .env
     ```
